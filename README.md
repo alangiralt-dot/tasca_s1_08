@@ -13,6 +13,8 @@ To get the project running locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/alangiralt-dot/tasca_s1_08.git
+   ```
+   ```bash
    cd tasca_s1_08
    ```
 2. Install dependencies:
@@ -21,8 +23,10 @@ To get the project running locally:
    ```
 3. Run the unit tests:
    ```bash
-   $ ./vendor/bin/phpunit tests/Nivell1/Exercici1/NumberCheckerTest.php
-   $ ./vendor/bin/phpunit tests/Nivell1/Exercici2/SpeedSensorTest.php
+   ./vendor/bin/phpunit tests/Nivell1/Exercici1/NumberCheckerTest.php
+   ```
+   ```bash
+   ./vendor/bin/phpunit tests/Nivell1/Exercici2/SpeedSensorTest.php
    ```
 
 
